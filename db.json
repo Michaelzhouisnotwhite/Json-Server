@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "michael",
+      "password": "zyq123",
+      "email": "zyqing601@163.com",
+      "collection": [
+        "1"
+      ]
+    },
+    {
+      "id": 2,
+      "username": "Tom",
+      "password": "tomisme",
+      "email": "Tom@163.com",
+      "collection": [
+        "2"
+      ]
+    },
+    {
+      "username": "unKnown",
+      "password": "unknownisme",
+      "email": "unKnown@gmail.com",
+      "collection": [
+        "1"
+      ],
+      "id": 3
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "abandon",
+      "content": [
+        {
+          "explanation": "放弃",
+          "property": "vt"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "word": "absent",
+      "content": [
+        {
+          "explanation": "缺席",
+          "property": "vi"
+        }
+      ]
+    },
+    {
+      "word": "vocabulary",
+      "content": [
+        {
+          "explanation": "词汇",
+          "property": "noun"
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
